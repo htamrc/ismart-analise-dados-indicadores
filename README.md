@@ -5,21 +5,21 @@
 Este repositório contém duas análises desenvolvidas para o Case Ismart com o objetivo de avaliar diferentes aspectos do desempenho e engajamento dos alunos.
 
 ## Estrutura do Repositório
-**Raiz**
-- README.md
 
-**analise-conclusao-prova/**
-- README.md
-- analise_Dados_PU.py
-- Dados_PU.xlsx
-- graficos/
-- relatorios/
+- `README.md` - Documentação principal
 
-**analise-indicadores/**
-- README.md
-- analise_indicadores.py
-- Base_Indicadores.xlsx
-- graficos/
+- **analise-conclusao-prova/**
+  - `README.md`
+  - `analise_Dados_PU.py`
+  - `Dados_PU.xlsx`
+  - `graficos/`
+  - `relatorios/`
+
+- **analise-indicadores/**
+  - `README.md`
+  - `analise_indicadores.py`
+  - `Base_Indicadores.xlsx`
+  - `graficos/`
 
 ## Análises Realizadas
 
@@ -49,7 +49,8 @@ Em relação ao perfil demográfico, a região Sudeste concentra o maior número
 A matriz de correlação confirmou relações positivas entre engajamento e progresso nas aulas (correlação de 0.67) e entre acesso à plataforma e conclusão da prova (correlação de 0.58).
 
 
-> **IMPORTANTE:** Recomendo fortemente a **leitura dos arquivos README.md de cada análise realizada**, onde pode-se acessar detalhes quantitativos e recomendações fornecidas com base neles.
+> [!IMPORTANTE]
+> Recomendo fortemente a leitura dos arquivos README.md de cada análise realizada, onde é possível acessar detalhes quantitativos e recomendações fornecidas com base nos dados.
 
 
 ## Tecnologias Utilizadas
