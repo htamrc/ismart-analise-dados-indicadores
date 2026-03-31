@@ -32,7 +32,7 @@ Esta análise investiga quais fatores estão associados à conclusão da Prova �
 - grafico_12_pd_absoluto.png
 - grafico_13_cluster_absoluto.png
 
-**AGráficos de Análises de Interrelações**
+**Gráficos de Análises de Interrelações**
 - analise_engajamento_clubes_absoluto.png
 - analise_matriz_correlacao_absoluto.png
 
