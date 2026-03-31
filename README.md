@@ -5,20 +5,21 @@
 Este repositório contém duas análises desenvolvidas para o Case Ismart com o objetivo de avaliar diferentes aspectos do desempenho e engajamento dos alunos.
 
 ## Estrutura do Repositório
+**Raiz**
+- README.md
 
-CASE_ISMART/
-├── README.md
-├── analise-conclusao-prova/
-│ ├── README.md
-│ ├── analise_Dados_PU.py
-│ ├── Dados_PU.xlsx
-│ ├── graficos/
-│ └── relatorios/
-└── analise-indicadores/
-├── README.md
-├── analise_indicadores.py
-├── Base_Indicadores.xlsx
-└── graficos/
+**analise-conclusao-prova/**
+- README.md
+- analise_Dados_PU.py
+- Dados_PU.xlsx
+- graficos/
+- relatorios/
+
+**analise-indicadores/**
+- README.md
+- analise_indicadores.py
+- Base_Indicadores.xlsx
+- graficos/
 
 ## Análises Realizadas
 
